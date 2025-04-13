@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\BBlazor\\YumBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34133CF4-9D4B-4DFE-8933-AF3006571723}|YumBlazor.csproj|d:\\projects\\bblazor\\yumblazor\\components\\pages\\category_pages\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34133CF4-9D4B-4DFE-8933-AF3006571723}|YumBlazor.csproj|solutionrelative:components\\pages\\category_pages\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34133CF4-9D4B-4DFE-8933-AF3006571723}|YumBlazor.csproj|d:\\projects\\bblazor\\yumblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34133CF4-9D4B-4DFE-8933-AF3006571723}|YumBlazor.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34133CF4-9D4B-4DFE-8933-AF3006571723}|YumBlazor.csproj|d:\\projects\\bblazor\\yumblazor\\components\\shared\\bsmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34133CF4-9D4B-4DFE-8933-AF3006571723}|YumBlazor.csproj|solutionrelative:components\\shared\\bsmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Projects\\BBlazor\\YumBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "D:\\Projects\\BBlazor\\YumBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T09:06:44.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryList.razor",
+              "DocumentMoniker": "D:\\Projects\\BBlazor\\YumBlazor\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "ToolTip": "D:\\Projects\\BBlazor\\YumBlazor\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "RelativeToolTip": "Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T09:06:44.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BsModal.razor",
+              "DocumentMoniker": "D:\\Projects\\BBlazor\\YumBlazor\\Components\\Shared\\BsModal.razor",
+              "RelativeDocumentMoniker": "Components\\Shared\\BsModal.razor",
+              "ToolTip": "D:\\Projects\\BBlazor\\YumBlazor\\Components\\Shared\\BsModal.razor",
+              "RelativeToolTip": "Components\\Shared\\BsModal.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T09:06:44.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
